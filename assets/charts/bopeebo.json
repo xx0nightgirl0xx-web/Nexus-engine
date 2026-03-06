@@ -1,0 +1,18 @@
+{
+    "song": {
+        "song": "Tutorial",
+        "notes": [
+            {
+                "sectionNotes": [
+                    [0, 0, 0],
+                    [500, 1, 0],
+                    [1000, 2, 0],
+                    [1500, 3, 0]
+                ],
+                "lengthInSteps": 16
+            }
+        ],
+        "bpm": 100,
+        "sections": 1
+    }
+}

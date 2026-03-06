@@ -1,0 +1,24 @@
+{
+    "song": {
+        "song": "Tutorial",
+        "notes": [
+            {
+                "sectionNotes": [
+                    [0, 0, 0],
+                    [500, 1, 0],
+                    [1000, 2, 0],
+                    [1500, 3, 0],
+                    [2000, 4, 0],
+                    [2500, 5, 0]
+                ],
+                "lengthInSteps": 16
+            }
+        ],
+        "bpm": 100,
+        "sections": 1,
+        "player1": "bf",
+        "player2": "dad",
+        "gfVersion": "gf",
+        "events": []
+    }
+}

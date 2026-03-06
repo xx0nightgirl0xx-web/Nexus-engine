@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <meta title="Nexus Engine" package="com.nexus.engine" version="1.0.0" company="Nexus Team" />
+    <app main="Main" file="NexusEngine" path="export" />
+    <window width="1280" height="720" />
+    <source path="source" />
+    <haxelib name="flixel" />
+    <haxelib name="flixel-addons" />
+    <haxelib name="flixel-ui" />
+    <haxelib name="flixel-tools" />
+    <haxelib name="polymod" />
+    <assets path="assets" />
+</project>
